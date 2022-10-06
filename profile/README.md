@@ -9,5 +9,5 @@ At [our website](retrodevteam.github.io/index) you can find alot of docs. _(when
 We eat cereal.
 
 - [x] Make readme.md
-- [] Make first app
-- [] Make website
+- [ ] Make first app
+- [ ] Make website
